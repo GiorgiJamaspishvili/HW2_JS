@@ -58,6 +58,81 @@
 
 
 // 6.
+// let array5 = [1, 2, 3, 7, 6, 9];
+// for (let item of array5) {
+//     if (item == 7) {
+//         continue;
+//     }
+//     console.log(item); }
+
+
+
+// 7.
+// let user = {
+//     firstname: "giorgi",
+//     lastname: "smith",
+//     age: 25,
+//     studentstatus: "active"
+//   };
+//   console.log(user.studentstatus);
+
+
+// 8.
+// let user = {
+//     name: 'giorgi',
+//     age: 20,
+//     studentstatus: 'active'
+// }
+// for (let item in user) {
+// if(user[item] > 18)
+// console.log('hello');
+
+// else if()
+// }
+
+
+// 9.
+// let array = [
+//     [2, -3, 5, 10],
+//     [25, -24, -11, 100],
+//     [-6, -7, 10],
+// ];
+
+// for (let item = 0; item < array.length; item++) {
+//     const element = array[item];
+//     for (let x = 0; x < element.length; x++) {
+//         if (element[x] > 0)
+//             console.log(element[x]);
+//     }
+// }
+
+
+// 10.
+// let array = [ 2, 3, 5, 10,25,24,11, 100 , 6,7, 10 ]
+
+// for (let item of array){
+//     if (item % 2 == 0)
+//     console.log(item);
+// }
+
+// for (let item of array){
+//     if (item % 2 == 1)
+//     console.log(item);
+// }
+
+
+
+// 11.
+let users = [
+    {username: 'giorgi', status: false},
+    {username: 'levani', status: false},
+    {username: 'anna', status: true}]
+
+
+
+
+
+
 
 
 
