@@ -128,8 +128,10 @@ let users = [
     {username: 'levani', status: false},
     {username: 'anna', status: true}]
 
-
-
+ for (let item of users) {
+    if (typeof item == 'true')
+    console.log(username);
+}
 
 
 
