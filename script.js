@@ -123,15 +123,17 @@
 
 
 // 11.
-let users = [
-    {username: 'giorgi', status: false},
-    {username: 'levani', status: false},
-    {username: 'anna', status: true}]
+// let users = [
+//     { username: 'giorgi', status: false },
+//     { username: 'levani', status: false },
+//     { username: 'anna', status: true }]
 
- for (let item of users) {
-    if (typeof item == 'true')
-    console.log(username);
-}
+// for (let item in users) {
+//     if (users[item] == 'true')
+//         console.log(users[item]);
+// }
+
+
 
 
 
